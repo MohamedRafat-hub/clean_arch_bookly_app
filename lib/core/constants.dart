@@ -1,0 +1,1 @@
+final String KFeaturedBox = 'featured_box';
